@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+int even=0;
+	for(int i=0;i<n;i++)
+    {
+		a=arr[i];
+		if(a%2==0)
+		{
+			even=a;
+		}
+	}
+}
